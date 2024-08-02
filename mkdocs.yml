@@ -1,1 +1,18 @@
 site_name: Blake Freer
+site_url: https://blakefreer.github.io
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+  icon:
+    repo: fontawesome/brands/git-alt
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/blake-freer/
+    - icon: fontawesome/brands/github
+      link: https://github.com/BlakeFreer
+
+repo_url: https://github.com/BlakeFreer
+repo_name: github.com/BlakeFreer
